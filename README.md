@@ -1,1 +1,1 @@
-#USER intent in academic search
+#User intent in academic search
